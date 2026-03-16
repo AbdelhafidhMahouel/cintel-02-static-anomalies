@@ -1,0 +1,25 @@
+age_years,height_inches,anomaly_reason
+21,64,age too high
+25,68,age too high
+29,70,age too high
+32,66,age too high
+35,72,age too high
+38,69,age too high
+41,71,age too high
+45,67,age too high
+49,73,age too high
+52,65,age too high
+55,70,age too high
+58,68,age too high
+61,64,age too high
+64,69,age too high
+67,71,age too high
+70,66,age too high
+74,68,age too high
+78,65,age too high
+82,63,age too high
+87,62,age too high
+91,64,age too high
+96,61,age too high
+102,60,age too high
+118,67,age too high
